@@ -1,0 +1,32 @@
+# Flutter
+     **/android/**/gradle-wrapper.jar
+     **/ios/.generated/
+     **/ios/Flutter/App.framework/
+     **/ios/Flutter/Flutter.framework/
+     **/ios/Flutter/Generated.xcconfig
+     **/ios/ServiceDefinitions.json
+     **/ios/Runner/GeneratedPluginRegistrant.*
+
+     # بناء المشروع
+     /build/
+     /android/app/build/
+     /ios/Pods/
+
+     # ملفات التهيئة المحلية
+     .dart_tool/
+     .flutter-plugins
+     .flutter-plugins-dependencies
+     .packages
+     .metadata
+     .idea/
+
+     # ملفات البيئة
+     .env
+     .env.*
+
+     # نظام التشغيل
+     .DS_Store
+     Thumbs.db
+
+     # VS Code (اختياري)
+     .vscode/
